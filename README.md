@@ -5,10 +5,15 @@ Este proyecto consiste en una aplicaci√≥n web que muestra una lista CRUD de pel√
 Los componentes son los siguientes:
 
 -HomeComponent
+
 -GeneralViewComponent
+
 -DetailViewComponent
+
 -CreateFormComponent
+
 -ModifyFormComponent
+
 -PageNotFoundComponent
 
 
